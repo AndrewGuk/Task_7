@@ -10,6 +10,5 @@
         {
             return new int[x, y];
         }
-
     }
 }

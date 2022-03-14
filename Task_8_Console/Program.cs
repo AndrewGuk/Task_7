@@ -3,7 +3,6 @@ using static System.Console;
 using Extentions;
 using ArrayWorker;
 
-
 namespace Task_7_Console
 {
     class Program
@@ -104,7 +103,5 @@ namespace Task_7_Console
                 ForegroundColor = ConsoleColor.Green;
             }
         }
-        
-        
     }
 }
